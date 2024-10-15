@@ -1,0 +1,1 @@
+# clickhouse_table_generator
